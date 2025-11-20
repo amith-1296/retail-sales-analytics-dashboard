@@ -17,8 +17,7 @@ This project analyzes retail sales transaction data to uncover business insights
 
 ## 🚀 Live Dashboard
 
-**👉 [Access Interactive Dashboard Here](#)** *(Link will be updated after deployment)*
-
+**👉 [Access Interactive Dashboard Here](https://retail-sales-analytics-dashboard-tjp3djeprdlfqnkemm2jew.streamlit.app/)**
 ## 🛠️ Tech Stack
 
 - **Python 3.8+** - Core programming language
