@@ -16,7 +16,7 @@ def load_data():
             return None
         return float(str(val).replace('$', '').replace(',', ''))
     
-    df = pd.read_excel('data.xlsx')
+    df = pd.read_csv('data.csv')
     
     money_cols = ['Cost Price', 'Retail Price', 'Profit Margin', 'Sub Total', 
                   'Discount $', 'Order Total', 'Shipping Cost', 'Total']
