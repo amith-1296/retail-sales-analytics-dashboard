@@ -134,7 +134,6 @@ The dataset contains **5,000+ retail transactions** with the following features:
 **Amith D**
 - GitHub: [@amith-1296](https://github.com/amith-1296)
 - LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)  
-- Portfolio: [View my work](https://amith-1296.github.io/Amith.github.io/)
 
 ## 📄 License
 
