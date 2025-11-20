@@ -23,7 +23,7 @@ def load_data():
     for col in money_cols:
         df[col] = df[col].apply(clean_money)
     
-    df['Order Date'] = pd.to_datetime(df['Order Date'])
+    df['Order Date'] = pd.to_datetime(df['Order Date'], dayfirst=True)
     df['Year-Month'] = df['Order Date'].dt.to_period('M').astype(str)
     
     return df
